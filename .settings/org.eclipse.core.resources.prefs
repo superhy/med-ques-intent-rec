@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//core/feature.py=UTF-8
+encoding//core/layer.py=UTF-8
+encoding//core/prencoder.py=UTF-8
+encoding//interface/fileProcess.py=UTF-8
+encoding//interface/medQuesRec.py=UTF-8
+encoding//interface/test/expDataProcess.py=UTF-8
+encoding//interface/test/testMedQuesRec.py=UTF-8
+encoding//interface/test/testWord2Vec.py=UTF-8
+encoding/run_rec.py=UTF-8
